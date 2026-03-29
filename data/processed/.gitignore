@@ -1,0 +1,4 @@
+# Keep the directory tracked by git; generated JSONL/text files are ignored.
+*.jsonl
+*.txt
+*.parquet

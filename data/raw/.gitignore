@@ -1,0 +1,6 @@
+# Keep the directory tracked by git; actual raw dump files are ignored.
+*.xml
+*.bz2
+*.gz
+*.7z
+*.zip
